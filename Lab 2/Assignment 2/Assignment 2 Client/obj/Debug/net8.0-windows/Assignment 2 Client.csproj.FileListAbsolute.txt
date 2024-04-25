@@ -1,0 +1,32 @@
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.exe
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.deps.json
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.runtimeconfig.json
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.dll
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.pdb
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment_2_Client.Form1.resources
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.csproj.GenerateResource.cache
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.AssemblyInfoInputs.cache
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.AssemblyInfo.cs
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.csproj.CoreCompileInputs.cache
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.dll
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\refint\Assignment 2 Client.dll
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.pdb
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.genruntimeconfig.cache
+D:\Network Programing\Assignment 2 Server\Assignment 2 Client\obj\Debug\net8.0-windows\ref\Assignment 2 Client.dll
+D:\Network Programing\Assignment 2\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.exe
+D:\Network Programing\Assignment 2\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.deps.json
+D:\Network Programing\Assignment 2\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.runtimeconfig.json
+D:\Network Programing\Assignment 2\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.dll
+D:\Network Programing\Assignment 2\Assignment 2 Client\bin\Debug\net8.0-windows\Assignment 2 Client.pdb
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment_2_Client.Form1.resources
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.csproj.GenerateResource.cache
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.AssemblyInfoInputs.cache
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.AssemblyInfo.cs
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.csproj.CoreCompileInputs.cache
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.dll
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\refint\Assignment 2 Client.dll
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.pdb
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\Assignment 2 Client.genruntimeconfig.cache
+D:\Network Programing\Assignment 2\Assignment 2 Client\obj\Debug\net8.0-windows\ref\Assignment 2 Client.dll
