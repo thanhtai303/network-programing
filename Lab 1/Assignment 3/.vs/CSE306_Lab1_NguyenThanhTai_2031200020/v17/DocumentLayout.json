@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Network Programing\\LAB 1\\Assignment 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEC443E-C2AE-47F2-8A87-E606E8F18D3B}|CSE306_Lab1_NguyenThanhTai_2031200020\\CSE306_Lab1_NguyenThanhTai_2031200020.csproj|d:\\network programing\\lab 1\\assignment 3\\cse306_lab1_nguyenthanhtai_2031200020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEC443E-C2AE-47F2-8A87-E606E8F18D3B}|CSE306_Lab1_NguyenThanhTai_2031200020\\CSE306_Lab1_NguyenThanhTai_2031200020.csproj|solutionrelative:cse306_lab1_nguyenthanhtai_2031200020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEC443E-C2AE-47F2-8A87-E606E8F18D3B}|CSE306_Lab1_NguyenThanhTai_2031200020\\CSE306_Lab1_NguyenThanhTai_2031200020.csproj|d:\\network programing\\lab 1\\assignment 3\\cse306_lab1_nguyenthanhtai_2031200020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAEC443E-C2AE-47F2-8A87-E606E8F18D3B}|CSE306_Lab1_NguyenThanhTai_2031200020\\CSE306_Lab1_NguyenThanhTai_2031200020.csproj|solutionrelative:cse306_lab1_nguyenthanhtai_2031200020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Network Programing\\LAB 1\\Assignment 3\\CSE306_Lab1_NguyenThanhTai_2031200020\\Form1.cs",
+              "RelativeDocumentMoniker": "CSE306_Lab1_NguyenThanhTai_2031200020\\Form1.cs",
+              "ToolTip": "D:\\Network Programing\\LAB 1\\Assignment 3\\CSE306_Lab1_NguyenThanhTai_2031200020\\Form1.cs",
+              "RelativeToolTip": "CSE306_Lab1_NguyenThanhTai_2031200020\\Form1.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAADwv4UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:30:48.708Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Network Programing\\LAB 1\\Assignment 3\\CSE306_Lab1_NguyenThanhTai_2031200020\\Form1.cs",
+              "RelativeDocumentMoniker": "CSE306_Lab1_NguyenThanhTai_2031200020\\Form1.cs",
+              "ToolTip": "D:\\Network Programing\\LAB 1\\Assignment 3\\CSE306_Lab1_NguyenThanhTai_2031200020\\Form1.cs [Design]",
+              "RelativeToolTip": "CSE306_Lab1_NguyenThanhTai_2031200020\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:21:55.052Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

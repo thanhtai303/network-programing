@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CSE306_Lab1_NguyenThanhTai_2031200020/1.0.0": {
+        "runtime": {
+          "CSE306_Lab1_NguyenThanhTai_2031200020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSE306_Lab1_NguyenThanhTai_2031200020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

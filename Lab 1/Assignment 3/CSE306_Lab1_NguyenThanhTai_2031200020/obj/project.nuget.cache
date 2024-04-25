@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NzU3/GvEg8fqzuL8LoIfb7946I428AVlSRvilszCMzuAYvFxy8FtGIOObF8+cmA1a/YGQP8kXby/h0IC+Vt62w==",
+  "success": true,
+  "projectFilePath": "D:\\Network Programing\\LAB 1\\Assignment 3\\CSE306_Lab1_NguyenThanhTai_2031200020\\CSE306_Lab1_NguyenThanhTai_2031200020.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zinzi\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\zinzi\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
