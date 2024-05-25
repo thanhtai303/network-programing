@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Network Programing\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{151EC2C4-64E2-4420-8373-6BBDD91154AA}|Assignment2\\Assignment2.csproj|d:\\network programing\\assignment2\\assignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151EC2C4-64E2-4420-8373-6BBDD91154AA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151EC2C4-64E2-4420-8373-6BBDD91154AA}|Assignment2\\Assignment2.csproj|D:\\Network Programing\\Assignment2\\assignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{151EC2C4-64E2-4420-8373-6BBDD91154AA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Network Programing\\Assignment2\\Assignment2\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Form1.cs",
+              "ToolTip": "D:\\Network Programing\\Assignment2\\Assignment2\\Form1.cs",
+              "RelativeToolTip": "Assignment2\\Form1.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAqwN8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:20:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Network Programing\\Assignment2\\Assignment2\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Form1.cs",
+              "ToolTip": "D:\\Network Programing\\Assignment2\\Assignment2\\Form1.cs [Design]",
+              "RelativeToolTip": "Assignment2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:53:13.636Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
