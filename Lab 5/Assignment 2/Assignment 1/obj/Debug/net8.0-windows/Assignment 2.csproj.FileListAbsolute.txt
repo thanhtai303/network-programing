@@ -1,0 +1,32 @@
+D:\Network Programing\Assignment 1\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.exe
+D:\Network Programing\Assignment 1\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.deps.json
+D:\Network Programing\Assignment 1\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.runtimeconfig.json
+D:\Network Programing\Assignment 1\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.dll
+D:\Network Programing\Assignment 1\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.pdb
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\Assignment_1.Form1.resources
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.csproj.GenerateResource.cache
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.AssemblyInfoInputs.cache
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.AssemblyInfo.cs
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.csproj.CoreCompileInputs.cache
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.dll
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\refint\Assignment 2.dll
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.pdb
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.genruntimeconfig.cache
+D:\Network Programing\Assignment 1\Assignment 1\obj\Debug\net8.0-windows\ref\Assignment 2.dll
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.exe
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.deps.json
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.runtimeconfig.json
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.dll
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\bin\Debug\net8.0-windows\Assignment 2.pdb
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\Assignment_1.Form1.resources
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.csproj.GenerateResource.cache
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.AssemblyInfoInputs.cache
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.AssemblyInfo.cs
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.csproj.CoreCompileInputs.cache
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.dll
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\refint\Assignment 2.dll
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.pdb
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\Assignment 2.genruntimeconfig.cache
+D:\Network Programing\Lab 5\Assignment 2\Assignment 1\obj\Debug\net8.0-windows\ref\Assignment 2.dll
